@@ -31,7 +31,7 @@ This is the fourth incarnation of the project. The lineage:
 | 1 | IDApTIK | TypeScript / Excalibur |
 | 2 | IDApixiTIK | ReScript / PixiJS |
 | 3 | idaptik | AffineScript / PixiJS |
-| 4 | **IDAprUSTIK** | **Rust** |
+| 4 | **IDAprUSTIK** | **Rust** / **Elixir** |
 
 ## How it plays
 
